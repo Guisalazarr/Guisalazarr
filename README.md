@@ -8,7 +8,7 @@ Guilherme</a></h1>
 
 - Meus Hobbies vão desde assistir séries até a pratica de esportes como futebol e musculação.
 
-- Experiencia em suporte técnico a máquinas de cartão de crédito e sistemas de pagamento TEF.
+- Experiencia em suporte técnico a máquinas de cartão <br/> de crédito e sistemas de pagamento TEF.
 
 - Graduação de Ciências da computação (andamento). <br/>
  Aluno do programa Full Stack Web Developer na Growdev.
