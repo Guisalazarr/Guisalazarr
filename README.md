@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá 👋, eu sou Guilherme <a href="https://github.com/Guisalazarr" target="blank">
+<h1 align="center">Olá 👋, eu sou o<a href="https://github.com/Guisalazarr" target="blank">
 Guilherme</a></h1>
 
 <a target="_blank" align="center">
