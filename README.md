@@ -10,7 +10,7 @@ Guilherme</a></h1>
 
 - Experiencia em suporte técnico a máquinas de cartão <br/> de crédito e sistemas de pagamento TEF.
 
-- Graduação de Ciências da computação (andamento). <br/>
+- Graduação de Ciências da computação (andamento). 
  Aluno do programa Full Stack Web Developer na Growdev.
 
 - Atualmente estudando: HTML CSS e Java Script.
