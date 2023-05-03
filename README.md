@@ -14,7 +14,7 @@ Guilherme</a></h1>
 - Aluno do programa Full Stack Web Developer na Growdev.
 - Inglês em desenvolimento.
 
-- Atualmente estudando: HTML CSS, Javascript, Typescript TS.
+- Atualmente estudando: HTML CSS, Javascript, Typescript e React TS.
 
 - E-mail: **guisalazarr@gmail.com** 
 - Contato: 51 981175661.
