@@ -6,13 +6,15 @@ Guilherme</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- Meus Hobbies são assistir séries e praticar de esportes como futebol e musculação.
+- Meus Hobbies são assistir séries e praticar esportes como futebol e musculação.
 
 - Experiencia em suporte técnico a máquinas de cartão de crédito e sistemas de pagamento TEF.
 
 - Graduação de Ciências da computação (andamento). 
- Aluno do programa Full Stack Web Developer na Growdev.
+- Aluno do programa Full Stack Web Developer na Growdev.
+- Inglês em desenvolimento.
 
-- Atualmente estudando: HTML CSS e Java Script.
+- Atualmente estudando: HTML CSS, Javascript, Typescript TS.
 
-- E-mail: **guisalazarr@gmail.com**
+- E-mail: **guisalazarr@gmail.com** 
+- Contato: 51 981175661.
