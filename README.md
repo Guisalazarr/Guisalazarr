@@ -14,5 +14,5 @@ Guilherme</a></h1>
 - Atualmente estudando: React, Typescript, Python, Node.Js, SQL
 
 - E-mail: **guisalazarr@gmail.com**
-- LinkedIn: linkedin.com/in/guisalazarr
+- LinkedIn: **linkedin.com/in/guisalazarr**
 - Contato: 51 981175661.
