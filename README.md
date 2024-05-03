@@ -7,11 +7,11 @@ Guilherme</a></h1>
 </a>
 
 
-- Graduação em Análise e Desenvolvimento de sistema na PUC-RS (andamento). 
-- Formado no curso Full Stack Web Developer na Growdev.
+- Graduação em Análise e Desenvolvimento de sistema na PUC-RS (conclusão 06/2026). 
+- Formado no curso Full Stack Web Developer na Growdev (10/2023).
 - Lingua inglesa em desenvolimento.
 
-- Atualmente estudando: React, Typescript, Python, Node.Js, SQL
+- Atualmente estudando: React, Typescript, Python, Node.Js, SQL.
 
 - E-mail: **guisalazarr@gmail.com**
 - LinkedIn: **linkedin.com/in/guisalazarr**
