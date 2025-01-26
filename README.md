@@ -11,7 +11,7 @@ Guilherme</a></h1>
 - Formado no curso Full Stack Web Developer na Growdev (10/2023).
 - Lingua inglesa em desenvolimento.
 
-- Atualmente estudando: React, Typescript, Python, Node.Js, SQL.
+- Tecnologias: React, Typescript, Python, Node.Js, SQL.
 
 - E-mail: **guisalazarr@gmail.com**
 - LinkedIn: **linkedin.com/in/guisalazarr**
