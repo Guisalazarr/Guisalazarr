@@ -2,11 +2,6 @@
 <h1 align="center">Olá 👋, eu sou o<a href="https://github.com/Guisalazarr" target="blank">
 Guilherme</a></h1>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-
 ## 👋 Olá! Eu sou o Guilherme Salazar
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** pela PUC-RS (conclusão em 06/2026)  
