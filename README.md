@@ -7,11 +7,20 @@ Guilherme</a></h1>
 </a>
 
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas pela PUC-RS (conclusão prevista para junho de 2026).
-💻 Formação Full Stack Web Developer pela Growdev (concluído em outubro de 2023).
-🌍 Inglês em desenvolvimento.
+## 👋 Olá! Eu sou o Guilherme Salazar
 
-💡 Principais tecnologias: React, TypeScript, Python, Node.js, SQL.
-📫 E-mail: guisalazarr@gmail.com
-🔗 LinkedIn: linkedin.com/in/guisalazarr
-📱 Contato: (51) 98117-5666
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** pela PUC-RS (conclusão em 06/2026)  
+💻 **Formado como Full Stack Web Developer** pela Growdev (10/2023)  
+🌐 **Inglês em desenvolvimento**
+
+### 🚀 Tecnologias que utilizo:
+- React
+- TypeScript
+- Python
+- Node.js
+- SQL
+
+### 📫 Como me encontrar:
+- Email: guisalazarr@gmail.com  
+- LinkedIn: [linkedin.com/in/guisalazarr](https://linkedin.com/in/guisalazarr)  
+- WhatsApp: (51) 98117-5666
