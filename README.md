@@ -7,12 +7,11 @@ Guilherme</a></h1>
 </a>
 
 
-- Graduação em Análise e Desenvolvimento de sistema na PUC-RS (conclusão 06/2026). 
-- Formado no curso Full Stack Web Developer na Growdev (10/2023).
-- Lingua inglesa em desenvolimento.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas pela PUC-RS (conclusão prevista para junho de 2026).
+💻 Formação Full Stack Web Developer pela Growdev (concluído em outubro de 2023).
+🌍 Inglês em desenvolvimento.
 
-- Tecnologias: React, Typescript, Python, Node.Js, SQL.
-
-- E-mail: **guisalazarr@gmail.com**
-- LinkedIn: **linkedin.com/in/guisalazarr**
-- Contato: 51 981175661.
+💡 Principais tecnologias: React, TypeScript, Python, Node.js, SQL.
+📫 E-mail: guisalazarr@gmail.com
+🔗 LinkedIn: linkedin.com/in/guisalazarr
+📱 Contato: (51) 98117-5666
